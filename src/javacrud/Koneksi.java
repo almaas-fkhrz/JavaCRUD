@@ -13,7 +13,7 @@ import java.sql.*;
 public class Koneksi {
     public static Connection getConnection() {
         Connection conn = null;
-        String url = "jdbc:mysql://localhost:3306/db_perpus";
+        String url = "jdbc:mysql://localhost:3306/perpustakaan";
         String user = "root";
         String password = "";
         try {

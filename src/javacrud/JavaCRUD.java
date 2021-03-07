@@ -16,7 +16,7 @@ public class JavaCRUD {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        new Form().setVisible(true);
+        new Main().setVisible(true);
     }
     
 }
